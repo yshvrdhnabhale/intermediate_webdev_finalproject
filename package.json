@@ -1,0 +1,13 @@
+{
+  "name": "interest-rate-calculator",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "jasmine",
+    "build": "webpack"
+  },
+  "devDependencies": {
+    "jasmine": "^5.1.0",
+    "webpack": "^5.88.0",
+    "webpack-cli": "^5.1.4"
+  }
+}
